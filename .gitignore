@@ -1,0 +1,6 @@
+*.out
+*.exe
+voting_app
+a.out
+.bash_history
+.cache
